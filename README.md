@@ -35,4 +35,3 @@ For every CNAE 2009 division and year:
 
 ## Resources
 - [INE - Demografía armonizada de empresas: stock, nacimientos y muertes de empresas](https://ine.es/dynt3/inebase/es/index.htm?padre=6103)
-- [Ley Rider - Real Decreto-ley 9/2021 (Garrigues)](https://www.garrigues.com/es_ES/noticia/entra-vigor-ley-rider-nuevas-exigencias-laborales-plataformas-digitales-reparto)
